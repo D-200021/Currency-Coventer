@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Currency-Coventer/static/css/main.4e9759ff.css",
+    "main.js": "/Currency-Coventer/static/js/main.f7347315.js",
+    "index.html": "/Currency-Coventer/index.html",
+    "main.4e9759ff.css.map": "/Currency-Coventer/static/css/main.4e9759ff.css.map",
+    "main.f7347315.js.map": "/Currency-Coventer/static/js/main.f7347315.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e9759ff.css",
+    "static/js/main.f7347315.js"
+  ]
+}
